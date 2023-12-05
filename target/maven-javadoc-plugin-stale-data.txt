@@ -1,0 +1,58 @@
+@options
+@packages
+-classpath
+'C:/Users/frank/.m2/repository/org/netbeans/external/AbsoluteLayout/RELEASE190/AbsoluteLayout-RELEASE190.jar;C:/Users/frank/.m2/repository/org/xerial/sqlite-jdbc/3.44.0.0/sqlite-jdbc-3.44.0.0.jar;C:/Users/frank/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'D:/Sandbox/Training/Java/UPC-FundamProgramacion2/SistemaVacacional/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Sandbox/Training/Java/UPC-FundamProgramacion2/SistemaVacacional/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SistemaVacacional 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SistemaVacacional 1.0-SNAPSHOT API'
+sisvac.app.gui
+sisvac.app.proceso
+sisvac.app.sesion
+sisvac.data.database.dao
+sisvac.data.database
+sisvac.data.model
+sisvac
+C:\Users\frank\.m2\repository\org\netbeans\external\AbsoluteLayout\RELEASE190\AbsoluteLayout-RELEASE190.jar = 1700277095441
+C:\Users\frank\.m2\repository\org\xerial\sqlite-jdbc\3.44.0.0\sqlite-jdbc-3.44.0.0.jar = 1700277101190
+C:\Users\frank\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar = 1700154703930
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\src\main\java = 1700539022812
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\allclasses-index.html = 1700583231139
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\allpackages-index.html = 1700583231143
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\copy.svg = 1700583231243
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\element-list = 1700583230702
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\help-doc.html = 1700583231233
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\index-all.html = 1700583231204
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\index.html = 1700583231097
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\link.svg = 1700583231245
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\member-search-index.js = 1700583231152
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\module-search-index.js = 1700583231145
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\overview-summary.html = 1700583231226
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\overview-tree.html = 1700583231090
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\package-search-index.js = 1700583231147
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\script.js = 1700583231241
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\search-page.js = 1700583231271
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\search.html = 1700583231223
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\search.js = 1700583231261
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\serialized-form.html = 1700583230896
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\stylesheet.css = 1700583231239
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\tag-search-index.js = 1700583231155
+D:\Sandbox\Training\Java\UPC-FundamProgramacion2\SistemaVacacional\target\site\apidocs\type-search-index.js = 1700583231148

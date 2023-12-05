@@ -1,0 +1,7 @@
+sisvac
+sisvac.app.gui
+sisvac.app.proceso
+sisvac.app.sesion
+sisvac.data.database
+sisvac.data.database.dao
+sisvac.data.model
