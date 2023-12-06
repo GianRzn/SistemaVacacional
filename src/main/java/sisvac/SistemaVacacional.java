@@ -1,10 +1,8 @@
 package sisvac;
 
-import sisvac.app.gui.GestorGui;
-import sisvac.app.gui.BloqueLogin;
-import sisvac.app.sesion.GestorSesion;
+import sisvac.gui.BloqueInLogin;
 import javax.swing.SwingUtilities;
-import sisvac.data.database.DbConexion;
+import sisvac.model.DbConexion;
 
 
 public class SistemaVacacional {
@@ -20,22 +18,21 @@ public class SistemaVacacional {
     }
     private static void startApplication() {
         
-        //Inicio de Conexiones
+        
         //DbConexion appDBConexion = new DbConexion(); 
         DbConexion appDB = DbConexion.getInstance();
         appDB.inicializar();
         
         //Inicio de Session
-      //  GestorSesion appSesion = new GestorSesion(); 
-        
-        //Inicio de Información
+        ManejadorSesion appSesion = ManejadorSesion.getInstance(); 
+        appSesion.inicializar();
         
         //Inicio de Pantallas
-        GestorGui gui = GestorGui.getInstance();
-        gui.initializeMainFrame();
+        ManejadorGui gui = ManejadorGui.getInstance();
+        gui.inicializar();
         
-            // Instanciar BloqueLogin con la referencia de GestorGui
-            BloqueLogin loginView = new BloqueLogin(gui);
+            // Instanciar BloqueInLogin con la referencia de ManejadorGui
+            BloqueInLogin loginView = new BloqueInLogin();
             loginView.initialize();
             gui.mostrarPanel("login");
             gui.showFrame();     
