@@ -10,7 +10,7 @@ public class SistemaVacacional {
     public static void main(String[] args) {
 
         SwingUtilities.invokeLater(() -> {
-            // Este bloque de código se ejecutará en el hilo de eventos de Swing.
+
             startApplication();
         });
       
