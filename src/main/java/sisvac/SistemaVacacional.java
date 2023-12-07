@@ -19,7 +19,7 @@ public class SistemaVacacional {
     private static void startApplication() {
         
         
-        //DbConexion appDBConexion = new DbConexion(); 
+
         DbConexion appDB = DbConexion.getInstance();
         appDB.inicializar();
         
