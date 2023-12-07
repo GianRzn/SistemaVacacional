@@ -13,7 +13,7 @@ public class DbConexion {
         //conn = null;
         try {
             
-            // db parameters
+            // db parameters prueba1
             String url = "jdbc:sqlite:SQLite/dbSistemaVacacional.db";
             // create a connection to the database
             conn = DriverManager.getConnection(url);
